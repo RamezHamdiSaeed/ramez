@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramez1212
+- 👋 Hi, I’m ramez hamdi
 - 👀 I’m interested in ...SW development using flutter
 - 🌱 I’m currently learning ... SW engineering 
 - 💞️ I’m looking to collaborate on ...linkedin and discord
